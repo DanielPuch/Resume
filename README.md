@@ -1,14 +1,3 @@
-<style type="text/css">
-p {
-	margin: 0em;
-}
-body {
-	margin: 2em;
-}
-h1 {
-	margin-bottom: -0.6em;
-}
-</style>
 <title>Daniel Puch Resume</title>
 </head>
 
