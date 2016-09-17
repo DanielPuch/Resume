@@ -1,4 +1,4 @@
-<body>
+
 <h1>DANIEL PUCH </h1>
 <h4> GRAPHIC WEB DESIGNER, ILLUSTRATOR, DESKTOP PUBLISHER<br>
 </h4>
@@ -89,60 +89,52 @@ Montevideo, Uruguay 1981-1983<br>
 </p>
 <br>
 <br>
-DESIGN SKILLS <br>
-<br>
-Adobe Photoshop  - Expert<br>
-Adobe Illustrator - Expert<br>
-Adobe InDesign - Expert<br>
-Adobe Dreamweaver - Advanced<br>
-Adobe Muse - Intermediate<br>
-HTML &amp; CSS - Advanced<br>
-Wordpress CMS - Intermediate<br>
-Joomla CMS - Intermediate<br>
-Adobe Flash Adobe Acrobat Pro  - Expert<br>
-Adobe After Effects - Intermediate<br>
-Adobe Premiere Quark X Press <br>
-Javascript - Beginner<br>
-Ruby on Rails - Beginner<br>
-PHP - Beginner<br>
-<p>PERSONAL SKILLS <br>
-  <br>
+<h2> DESIGN SKILLS </h2>
+<p>
+<strong> Adobe Photoshop </strong> - Expert<br>
+<strong>Adobe Illustrator </strong>- Expert<br>
+<strong>Adobe InDesign </strong>- Expert<br>
+<strong>Adobe Dreamweaver </strong> - Advanced<br>
+<strong>Adobe Muse </strong> - Intermediate<br>
+<strong>HTML &amp; CSS </strong> - Advanced<br>
+<strong>Wordpress CMS </strong> - Advanced <br>
+<strong>Joomla CMS </strong> - Intermediate<br>
+<strong>Adobe Flash Adobe Acrobat Pro </strong>  - Expert<br>
+<strong>Adobe After Effects </strong> - Intermediate<br>
+<strong>Adobe Premiere </strong> -  Intermediate <br> 
+<strong> Quark X Press </strong> - Expert <br>
+<strong>Javascript </strong> - Beginner<br>
+<strong>Ruby on Rails </strong> - Beginner<br>
+<strong>PHP </strong>- Beginner<br>
+</p>
+<p> <h2> PERSONAL SKILLS </h2>
   Illustration/Cartooning (Digital and traditional)<br>
   Social <br>
   Commitment <br>
   Organization <br>
   Creativity <br>
   Communication <br>
-  Teamwork <br>
+  Teamwork <br> </p>
   <br>
-  LANGUAGES <br>
-  <br>
+  <h2> LANGUAGES </h2> 
   English (advanced)<br>
   Spanish  (native)<br>
-  <br>
-  <br>
-  AWARDS <br>
-  <br>
-  HONORABLE MENTION AT <br>
-  DARK HORSE CONTEST <br>
-  Milwaukie OR, 2011 <br>
-  <br>
+ 
+ <p> <h2> AWARDS </h2> 
+  <h3> HONORABLE MENTION AT DARK HORSE CONTEST "Recreate a Hellboy Cover" (Illustration) </h3>
+  Milwaukie OR - 08/05/2011 <br>
+  <br> </p>
   Recreate a Hellboy Cover was a contest done by Dark Horse comic publishing company where the participants were invited to create their own version of one of the magazine covers from Hellboy. The judge was Mike Mignola himself and I was honored to be selected among 50 participants as an honorable mention. You can see the results here, following this link: http://www.darkhorse.com/Blog/530/recreate-hellboy-cover.-contest-results <br>
-  <br>
-  <br>
-  HOBBIES AND ACTIVITIES <br>
-  <br>
+ 
+ <p> <h2> HOBBIES AND ACTIVITIES </h2> 
   Bicycle riding<br>
   Soccer<br>
   Photography<br>
   Travelling<br>
   Swimming<br>
   Coding <br>
-  Zen Meditation</p>
-<p>&nbsp;</p>
-<p><br>
-</p>
-<p> Daniel Puch - Graphic Designer - Contact: danielpuch@yahoo.com -
-  9089866504 (Cell) - 9084361937 (Home)</p>
-</body>
-</html>
+  Zen Meditation <br>
+<br> </p>
+
+<p> <strong> Daniel Puch - Graphic Designer </strong> - Contact: <strong> danielpuch@yahoo.com </strong> -
+  <strong> (908) 986.6504 </strong> (Cell) - <strong> (908) 436.1937 </strong> (Home)</p>
