@@ -1,7 +1,3 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
 <style type="text/css">
 p {
 	margin: 0em;
