@@ -1,6 +1,3 @@
-<title>Daniel Puch Resume</title>
-</head>
-
 <body>
 <h1>DANIEL PUCH </h1>
 <h4> GRAPHIC WEB DESIGNER, ILLUSTRATOR, DESKTOP PUBLISHER<br>
