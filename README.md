@@ -1,6 +1,6 @@
 DANIEL PUCH
-GRAPHIC & WEB DESIGNER, ILLUSTRATOR, DESKTOP PUBLISHER
-www.danielpuch.com
+GRAPHIC & WEB DESIGNER, ILLUSTRATOR, DESKTOP PUBLISHER 
+http://www.danielpuch.com
 http://www.mowsedesign.com 
  
  
