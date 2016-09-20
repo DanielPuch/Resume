@@ -6,13 +6,12 @@
   http://www.mowsedesign.com <br>
 </p>
 <h4> CONTACT </h4>
-<p>Address <br>
-  807 Chancellor St. 1st. Floor <br>
+<p>Location <br>
   Elizabeth, NJ 07202 <br>
   <br>
   danielpuch@yahoo.com <br>
   908 986 6504  (Cell) <br>
-  908 436 1937 (Home) <br>
+ <br>
 </p>
 <p>
 <h2> PROFESSIONAL PROFILE </h2>
