@@ -22,6 +22,7 @@
 <li>Illustrator with experience in commercial art, icon creation, illustration for logos and characters design for any purpose like comics, cartoons and animation.</li>
 <li>Introduction of the use of new software in the company to increase productivity and quality, resulting in savings for the company and better results.</li>
 <li>Creating a methodology to apply to each work to make it possible to anyone understand the production process and get fast adapted to working to the high quality levels of the company.</li>
+<li>Digital and traditional illustrator, expert at illustrating digitally using the wacom tablet with photoshop, illustrator and Manga Studio. Colorist.</li>
 </p>
 <br>
 <br>
@@ -96,6 +97,7 @@ Montevideo, Uruguay 1981-1983<br>
 <strong>Adobe InDesign </strong>- Expert<br>
 <strong>Adobe Dreamweaver </strong> - Advanced<br>
 <strong>Adobe Muse </strong> - Intermediate<br>
+<strong>Manga Studio with Wacom Tablet</strong> - Advanced<br>
 <strong>HTML &amp; CSS </strong> - Advanced<br>
 <strong>Wordpress CMS </strong> - Advanced <br>
 <strong>Joomla CMS </strong> - Intermediate<br>
