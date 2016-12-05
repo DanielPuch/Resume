@@ -9,7 +9,7 @@
 <p>Location <br>
   Elizabeth, NJ 07202 <br>
   <br>
-  danielpuch@yahoo.com <br>
+  danielpuch@mowsedesign.com <br>
   908 986 6504  (Cell) <br>
  <br>
 </p>
