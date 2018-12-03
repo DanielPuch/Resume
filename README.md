@@ -2,8 +2,8 @@
 <h1>DANIEL PUCH </h1>
 <h4> GRAPHIC WEB DESIGNER, ILLUSTRATOR, DESKTOP PUBLISHER<br>
 </h4>
-<p>http://www.danielpuch.com<br>
-  http://www.mowsedesign.com <br>
+
+ <p> http://www.mowsedesign.com <br>
 </p>
 <h4> CONTACT </h4>
 <p>Location <br>
